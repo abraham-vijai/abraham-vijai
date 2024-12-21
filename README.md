@@ -1,22 +1,15 @@
 
 <img src="https://i.gifer.com/6vIk.gif" width="800" height="300" />
 
+<span style="font-family: Lucida Console;">
+
+<h1 style="text-align:center;">Hi there 👋, I'm Abraham Vijai</h3>
+
+<!--## A bit about me📖: -->
 
 - 🔭 I’m currently working on something that hopefully doesn't get abandoned halfway through :)
 - 🌱 I’m currently learning Graphics Programming using OpenGL
 - 📫 You can reach me at abrahamvijai03@gmail.com
-
-### Socials:
-<div align="left">
-    <a href="https://www.instagram.com/abrahamvijai03/">    
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-    </a>
-    <a href="https://www.linkedin.com/in/abraham-vijai-463126236/">    
-        <img src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>
-</div>
-
-
 
 ### Ask Me About:
 <div align="left">
@@ -36,6 +29,19 @@
         <img src="https://skillicons.dev/icons?i=cs"/>
     </a>
 </div>
+
+### Socials:
+<div align="left">
+    <a href="https://www.instagram.com/abrahamvijai03/">    
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/abraham-vijai-463126236/">    
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+</div>
+
+</span>
+
 
 <!--
 **abraham-vijai/abraham-vijai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
