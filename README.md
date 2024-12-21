@@ -3,7 +3,7 @@
 
 <span style="font-family: Lucida Console;">
 
-<h1 style="text-align:center;">Hi there 👋, I'm Abraham Vijai</h3>
+<h1 align="center">Hi there 👋, I'm Abraham Vijai</h3>
 
 <!--## A bit about me📖: -->
 
