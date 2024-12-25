@@ -8,7 +8,7 @@
 <!--## A bit about me📖: -->
 
 - 🔭 I’m currently working on something that hopefully doesn't get abandoned halfway through :)
-- 🌱 I’m currently learning Graphics Programming using OpenGL
+- 🌱 Learning Graphics Programming using OpenGL
 - 📫 You can reach me at abrahamvijai03@gmail.com
 
 ### Ask Me About:
