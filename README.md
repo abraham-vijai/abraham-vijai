@@ -28,6 +28,12 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">    
         <img src="https://skillicons.dev/icons?i=cs"/>
     </a>
+    <a href="https://p5js.org/">    
+        <img src="https://skillicons.dev/icons?i=p5js"/>
+    </a>
+    <a href="https://react.dev/">    
+        <img src="https://skillicons.dev/icons?i=react"/>
+    </a>
 </div>
 
 ### Socials:
