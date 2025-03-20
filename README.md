@@ -18,7 +18,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abraham-vijai&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=abraham-vijai&icon=3&color=1)](https://visitcount.itsvg.in)
+ <div align="center">
+    <img alt="Visitor Stats" 
+      src="https://widgetbite.com/stats/abraham-vijai"/>  
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
